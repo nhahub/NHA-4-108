@@ -31,6 +31,7 @@ Here is a detailed breakdown of the files included in this project:
   The documentation explaining the methodology, feature engineering, and evaluation metrics of the patient readmission prediction model.
 
 * **[📄 Power Bi Project & Raw Data](https://drive.google.com/drive/folders/1G0stgMEAIWOcDkEuv_UNu-PsWmkUMyBG?usp=drive_link)**
+ The link contains raw data, final dashboards and modeling.
   
 
 ---
