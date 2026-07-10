@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Warehouse & Power BI and Readmission Prediction Project
+# 🏥 Healthcare Data Warehouse & Power BI and Readmission Prediction Project (FULL PROJECT)
 
 This repository contains the files and documentation for a comprehensive healthcare data project, including a Data Warehouse, Power BI dashboards, and a Machine Learning model for patient readmission prediction.
 
@@ -30,7 +30,7 @@ Here is a detailed breakdown of the files included in this project:
 * **[📄 Readmission Model Documentation](./Readmission_Model_Documentation.docx)**
   The documentation explaining the methodology, feature engineering, and evaluation metrics of the patient readmission prediction model.
 
-* **[📄 Power Bi Project & Raw Data](https://drive.google.com/drive/folders/1G0stgMEAIWOcDkEuv_UNu-PsWmkUMyBG?usp=drive_link))**
+* **[📄 Power Bi Project & Raw Data](https://drive.google.com/drive/folders/1G0stgMEAIWOcDkEuv_UNu-PsWmkUMyBG?usp=drive_link)**
   
 
 ---
